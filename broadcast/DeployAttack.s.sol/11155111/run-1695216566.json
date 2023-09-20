@@ -1,0 +1,38 @@
+{
+  "transactions": [
+    {
+      "hash": "0x122c09671b8e6512c1271810932bf493cc33440eccc292789def4c83fdc769ac",
+      "transactionType": "CREATE",
+      "contractName": "Attack",
+      "contractAddress": "0x7Ec2250911bAF02Cb8903B4c87fCC25e1dDd8541",
+      "function": null,
+      "arguments": null,
+      "transaction": {
+        "type": "0x02",
+        "from": "0x0b9e2f440a82148bfddb25bea451016fb94a3f02",
+        "gas": "0x1c4c6",
+        "value": "0x0",
+        "data": "0x6080604052600080546001600160a01b0319167360a7556cf4caac82b7e7f85747c4c75a4ad4a76d179055348015603557600080fd5b50603c8060436000396000f3fe6080604052fefea264697066735822122009087b3327f052614a92a38cfcbe2ffde2c7d826697eaefdf1174115b6cfec0864736f6c63430008130033",
+        "nonce": "0xc3",
+        "accessList": []
+      },
+      "additionalContracts": [],
+      "isFixedGasLimit": false
+    }
+  ],
+  "receipts": [],
+  "libraries": [],
+  "pending": [
+    "0x122c09671b8e6512c1271810932bf493cc33440eccc292789def4c83fdc769ac"
+  ],
+  "returns": {
+    "0": {
+      "internal_type": "contract Attack",
+      "value": "0x7Ec2250911bAF02Cb8903B4c87fCC25e1dDd8541"
+    }
+  },
+  "timestamp": 1695216566,
+  "chain": 11155111,
+  "multi": false,
+  "commit": "b4a0ffa"
+}
